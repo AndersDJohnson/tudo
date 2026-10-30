@@ -35,7 +35,7 @@
     "hapi": "^8.8.0",
     "hoek": "^2.14.0",
     "joi": "^6.6.0",
-    "jsonwebtoken": "^5.0.4",
+    "jsonwebtoken": "^9.0.3",
     "redis": "^0.12.1",
     "riot": "^2.2.2",
     "wreck": "^6.0.0"
